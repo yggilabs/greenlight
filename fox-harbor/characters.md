@@ -20,3 +20,10 @@ look across, you don't know the way of the ocean. I will teach you.
 - [ ] the perfect storm
   - [ ] *some additional cost unlocked for the future (one time)*
 - [ ] thar be dragons
+
+### Epilogue
+- (less than -5)
+- (-5 to -2)
+- (-1 to +1)
+- (2 to 5)
+- (more than 5)
