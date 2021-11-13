@@ -2,7 +2,15 @@
 
 An isolated town with secrets hiding in the mists
 
-### Synopsis
+## Rating
+
+> rating as setting
+
+- [ ] __MA__ -
+- [ ] __14__
+- [ ] __G__
+
+## Synopsis
 
 Fox Harbor is an idyllic town nestled in the protected waters of its namesake. The people are hard-working, they carry on the traditions of their past. The waters are bountiful, they provide everything that residents might need.
 
@@ -10,7 +18,7 @@ The town is on an island, the only point on the map. The town is large enough th
 
 But, something is wrong... the traditions of the past are not as wholesome as some wish to remember and, more than fish comes out from the waters.
 
-### Cold Open
+## Cold Open
 
 The show opens with a shot of open water bathed in the diffuse light of an overcast sky.
 
@@ -45,7 +53,7 @@ Why isn't the ship's crew turning around?
 
 Before we see what lies within. Te ship and crew are engulfed as mist fills the screen. A discordant note is stuck as the the words "Fox Harbor" fade-in. Then, cut to black.
 
-### Vocabulary
+## Vocabulary
 
 **Characters**
 Struggling Entrepreneur, Visiting Couple, Industrious Captain, Uninitiated Newcomer, Disinterested Muscle, The Mists, Mist-touched Youngster, Faithless Rector, Corrupt Autocrat, Fanatical Devotee, Silent Hermit, Deranged Boss, Disgruntled Warden, Capricious Animal, Stranded Reporter

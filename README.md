@@ -7,14 +7,13 @@ Greenlight is a roleplaying game in which your group will create your own televi
 **What you'll Need**
 
 * Some other human beings. A few or more but, less than lots. (3-5 for people who like numbers)
-* Two types of tokens totaling three times the number of players split approximately evenly between the types.
 * At least one pitch. *Fox Harbor* is the only one currently available.
 
 **How to Behave**
 
 * Think cinematically, go beyond, establish what the viewers hear and see every scene.
-* Discover the story, let go, share the load
-* stay safe, stick to the rating, character authority
+* Discover the story, let go, share the load, no weasels
+* stay safe, stick to the rating, player driven characters
 * **Hold others accountable for this stuff**
 
 ## Setup
