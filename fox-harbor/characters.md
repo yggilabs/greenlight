@@ -6,11 +6,11 @@
 
 Where did they lose their biggest haul? (choose a backdrop)
 
-look to your left, doesn't know the way of the ocean. I will teach them. (choose a character)
+look to your left, you don't know the way of the ocean. I will teach you. (choose a character)
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ doesn't know the way of the ocean. I will teach them.
+look to your right, you don't know the way of the ocean. I will teach you.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ doesn't know the way of the ocean. I will teach them.  
+look across, you don't know the way of the ocean. I will teach you.
 
 ### Development
 
